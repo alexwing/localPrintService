@@ -1,0 +1,10 @@
+C:\Users\Windows\Google Drive\Trabajos\lineagrafica\localPrintService\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Windows\Google Drive\Trabajos\lineagrafica\localPrintService\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Windows\Google Drive\Trabajos\lineagrafica\localPrintService\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Google Drive\Trabajos\lineagrafica\localPrintService\WindowsFormsApp1\bin\Release\factulinkerPrintService.exe.config
+C:\Users\Windows\Google Drive\Trabajos\lineagrafica\localPrintService\WindowsFormsApp1\bin\Release\factulinkerPrintService.exe
+C:\Users\Windows\Google Drive\Trabajos\lineagrafica\localPrintService\WindowsFormsApp1\bin\Release\factulinkerPrintService.pdb
+C:\Users\Windows\Google Drive\Trabajos\lineagrafica\localPrintService\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Windows\Google Drive\Trabajos\lineagrafica\localPrintService\WindowsFormsApp1\obj\Release\factulinkerPrintService.Properties.Resources.resources
+C:\Users\Windows\Google Drive\Trabajos\lineagrafica\localPrintService\WindowsFormsApp1\obj\Release\factulinkerPrintService.exe
+C:\Users\Windows\Google Drive\Trabajos\lineagrafica\localPrintService\WindowsFormsApp1\obj\Release\factulinkerPrintService.pdb
