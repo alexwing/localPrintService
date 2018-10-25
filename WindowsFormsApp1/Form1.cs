@@ -68,7 +68,6 @@ namespace WindowsFormsApp1
             Console.WriteLine("Successfully Downloaded File \"{0}\" from \"{1}\"", fileName, myStringWebResource);
             Console.WriteLine("\nDownloaded file saved in the following file system folder:\n\t" + Application.StartupPath);
 
-            // https://crioh.tpvlinker.com/reports/test/invoice.pdf
             //Print(textBox1.Text.ToString(), listBox1.Items[listBox1.SelectedIndex].ToString());
             Print(fileName, listBox1.Items[listBox1.SelectedIndex].ToString());
         }
