@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{AFE2EB5C-BAD0-4E99-ACD5-62601BD17F53}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>factulinkerPrintService</RootNamespace>
-    <AssemblyName>factulinkerPrintService</AssemblyName>
+    <RootNamespace>localPrintService</RootNamespace>
+    <AssemblyName>localPrintService</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
