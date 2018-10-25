@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("factulinkerPrintService")]
-[assembly: AssemblyDescription("Local Print Service for Factulinker")]
+[assembly: AssemblyTitle("localPrintService")]
+[assembly: AssemblyDescription("Local Print Service for local")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Línea Gráfica S.L.")]
-[assembly: AssemblyProduct("factulinkerPrintService")]
+[assembly: AssemblyCompany("Alejandro Aranda Moreno")]
+[assembly: AssemblyProduct("localPrintService")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
