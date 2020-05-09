@@ -1,0 +1,9 @@
+C:\projects\localPrintService\WindowsFormsApp1\bin\Debug\localPrintService.exe.config
+C:\projects\localPrintService\WindowsFormsApp1\bin\Debug\localPrintService.exe
+C:\projects\localPrintService\WindowsFormsApp1\bin\Debug\localPrintService.pdb
+C:\projects\localPrintService\WindowsFormsApp1\obj\Debug\localPrintService.csprojAssemblyReference.cache
+C:\projects\localPrintService\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\projects\localPrintService\WindowsFormsApp1\obj\Debug\localPrintService.Properties.Resources.resources
+C:\projects\localPrintService\WindowsFormsApp1\obj\Debug\localPrintService.csproj.GenerateResource.cache
+C:\projects\localPrintService\WindowsFormsApp1\obj\Debug\localPrintService.exe
+C:\projects\localPrintService\WindowsFormsApp1\obj\Debug\localPrintService.pdb
