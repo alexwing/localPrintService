@@ -8,13 +8,10 @@ This application is developed in Visual Studio 2015 and uses Windows Forms and C
 
 Some examples of useful applications for this application are:
 
-    In an office where electronic invoices are regularly received, the application can be configured to automatically print invoices received on a specific printer.
-
-    In a warehouse of a logistics company, the application can be used to automatically print shipping labels or delivery guides when a purchase order is received.
-
-    In a hospital or clinic, the application can be used to automatically print medical reports or prescriptions when a request is received from a doctor.
-
-    In a retail store, the application can be used to automatically print invoices or receipts when a purchase order is received.
+* In an office where electronic invoices are regularly received, the application can be configured to automatically print invoices received on a specific printer.
+* In a warehouse of a logistics company, the application can be used to automatically print shipping labels or delivery guides when a purchase order is received.
+* In a hospital or clinic, the application can be used to automatically print medical reports or prescriptions when a request is received from a doctor.
+* In a retail store, the application can be used to automatically print invoices or receipts when a purchase order is received.
 
 ## Use 
 
